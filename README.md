@@ -32,4 +32,4 @@
 
 ### Connect with Me :
 <p align="start">
-<a href="linkedin.com/in/sama-medhat-4bb5241b0" target="_blank"><img src="https://img.shields.io/badge/-Sama%20Medhat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[linkedin.com/in/sama-medhat-4bb5241b0](https://www.linkedin.com/in/sama-medhat-4bb5241b0/)" target="_blank"><img src="https://img.shields.io/badge/-Sama%20Medhat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
