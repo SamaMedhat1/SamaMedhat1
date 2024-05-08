@@ -11,14 +11,17 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![angular](https://img.shields.io/badge/-angular%20-05122A?style=flat&logo=angular)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![angular](https://img.shields.io/badge/-angular%20-05122A?style=flat&logo=angular)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 
 ![ASP.NET Core Web API](https://img.shields.io/badge/-ASP.NET%20Core%20Web%20API-05122A?style=flat&logo=.net)
 ![SignalR](https://img.shields.io/badge/-SignalR-05122A?style=flat&logo=signalr)&nbsp;
@@ -28,13 +31,7 @@
 ![ADO.NET](https://img.shields.io/badge/-ADO.NET-05122A?style=flat&logo=.net)&nbsp;
 
 
-![Object-Oriented Programming (OOP)](https://img.shields.io/badge/-Object--Oriented%20Programming%20(OOP)-05122A?style=flat)
-![SOLID principles](https://img.shields.io/badge/-SOLID%20principles-05122A?style=flat)&nbsp;
-![Design Patterns (DP)](https://img.shields.io/badge/-Design%20Patterns%20(DP)-05122A?style=flat)&nbsp;
-![Test-Driven Development (TDD)](https://img.shields.io/badge/-Test--Driven%20Development%20(TDD)-05122A?style=flat)&nbsp;
-![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-05122A?style=flat)&nbsp;
-
 ### Connect with Me:
 <p align="start">
-<a href="https://www.linkedin.com/in/sama-medhat-4bb5241b0/" target="_blank"><img src="www.linkedin.com/in/sama-medhat?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sama-medhat" target="_blank"><img src="https://img.shields.io/badge/-Sama%20Medhat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
